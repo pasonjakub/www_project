@@ -1,0 +1,43 @@
+{
+    "content":{
+        "title": "Astro Blog",
+        "chapters": [
+            {
+                "title": "Contact Information",
+                "sectionId": "contactInformation",
+                "sections": [
+                    {
+                        "content": "123 Stellar Avenue Cosmos City, Universe 1010",
+                        "title": "Office Address:"
+                    },
+                    {
+                        "content": "Main: +1 (555) 123-4567</br>Support: +1 (555) 987-6543",
+                        "title": "Phone:"
+                    },
+                    {
+                        "content": "General Inquiries: info@cosmoscityuniverse.com</br>Support: support@cosmoscityuniverse.com",
+                        "title": "Email:"
+                    },
+                    {
+                        "content": "@Twitter: @CosmosCity</br>Facebook: /CosmosCityUniverse</br>Instagram: @CosmosCityUniverse",
+                        "title": "Social Media:"
+                    },
+                    {
+                        "content": "Monday - Friday: 9:00 AM - 6:00 PM (UTC)</br>Saturday: 10:00 AM - 4:00 PM (UTC)</br>Sunday: Closed",
+                        "title": "Hours of Operation:"
+                    }
+                ],
+                "images": {
+                    "foreground": {
+                        "path": "static/img/mountains.png",
+                        "name": "mountains"
+                    },
+                    "background": {
+                        "path": "static/img/planet.jpg",
+                        "name": "planet"
+                    }
+                }
+            }
+        ]
+    }
+}
